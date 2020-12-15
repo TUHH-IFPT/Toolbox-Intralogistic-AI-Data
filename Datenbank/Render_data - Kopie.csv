@@ -1,0 +1,6 @@
+﻿object_type;name;radius;polar_angle_min;polar_anglel_max;polar_angle_segments;polar_angle_random_rad;azimuth_angle_min;azimuth_angle_max;azimuth_angle_segments;azimuth_angle_random_rad;tracking_obj;segmentation
+camera;camera;180;0,392699082;0,785398163;2;0,196349541;0;6,283185307;8;0,196349541;box;True
+light;SUN;150;0;1,178097245;0;0;0;0;0;0;box;False
+light;SPOT;150;0,785398163;0,785398163;1;0,196349541;0;6,283185307;3;0,785398163;box;True
+light;SPOT;200;0,392699082;1,047197551;1;0,392699082;0;6,283185307;3;0,785398163;box;True
+light;SPOT;250;0;0;1;0;0;0;1;0;box;True

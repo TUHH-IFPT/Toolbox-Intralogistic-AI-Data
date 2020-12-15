@@ -1,0 +1,6 @@
+﻿obj_filepath;obj_name;obj_type;obj_scale_factor;obj_loaction_x;obj_loaction_y;obj_location_z;obj_rotation_x;obj_rotation_y;obj_rotation_z;obj_amount_percent;obj_material_path;placing_point_in_time;maximum_random_rotation_degree_z;maximum_random_translation;random_amount
+x;Background;background;150;0;0;-6;0;0;0;0;x;x;359;0,1;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Kiste.obj;Kiste;box;60;0;0;-5;0;0;0;1;x;x;0;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\VerpackungsFlip.obj;VerpackungsFlip;packaging;3;0;0;0;0;0;0;0.15;C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\33006838-schaumstoff-textur.jpg;before_obj;0;0;0.01
+C:\Blender_Box_Sim2\Blender_Box_Sim\sim\Packaging;Bubble_wrap;packaging_bubble_wrap;0;0;0;0;0;0;0;1;x;x;0;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Transformator\Transformator.obj;Transformator;active;20;0;0;5;;;;1;x;x;0;0;0

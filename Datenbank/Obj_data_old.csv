@@ -1,0 +1,10 @@
+﻿obj_filepath;obj_name;obj_type;obj_scale_factor;obj_loaction_x;obj_loaction_y;obj_loaction_z;obj_rotation_x;obj_rotation_y;obj_rotation_z;obj_amount_percent;obj_material_path;placing_point_in_time;maximum_random_rotation_degree_z;maximum_random_translation
+x;Background;background;150;0;0;-6;0;0;0;0;x;x;359;0,1
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Kiste.obj;Kiste;box;100;0;0;-5;0;0;0;1;x;x;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Emulator\Switch.obj;Switch;active;0,1;0;0;10;;;;1;x;x;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\VerpackungsFlip.obj;VerpackungsFlip;packaging;1,5;0;0;0;0;0;0;0.20;C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\33006838-schaumstoff-textur.jpg;before_obj;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\VerpackungsFlip.obj;VerpackungsFlip;packaging;1,5;0;0;0;0;0;0;0;C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\33006838-schaumstoff-textur.jpg;after_obj;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Emulator\Emulator.obj;Switch;active;0,05;0;0;10;0;0;0;1;x;x;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Transformator\Transformator.obj;Transformator;active;0,05;0;0;10;0;0;0;1;x;x;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\Brake\brake_1.obj;Brake;active;0,05;0;0;10;0;0;0;1;x;x;0;0
+C:\Blender_Box_Sim2\Blender_Box_Sim\obj_files\MotorControler\MotorControler.obj;MotorControler;active;0,05;0;0;10;0;0;0;1;x;x;0;0

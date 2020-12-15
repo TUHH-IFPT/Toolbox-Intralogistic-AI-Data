@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\holst\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintArgs": ["--init-hook", "import sys; sys.path.append('C:/Blender_Box_Sim2/Blender_Box_Sim/sim')"]
+}
