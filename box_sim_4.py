@@ -54,7 +54,7 @@ class Box_sim_4_main(bpy.types.Operator):
     camera_angle = [0,0]
     camera = "Camera"
     
-    global_count = 17
+    global_count = 0
     global_variation = 0
     picture_count = 0
     max_loop_count=0
